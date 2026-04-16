@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3755adf92cd0e01c",
+    "id": "bf5131bb25dc1e9c",
     "type": "split",
     "children": [
       {
-        "id": "5afbbcc43d684e26",
+        "id": "f6b848cb5eed0e62",
         "type": "tabs",
         "children": [
           {
-            "id": "2b2fac97eebe93c6",
+            "id": "4cf16928104bbe53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java_Basic.md",
+                "file": "Nginx_Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java_Basic"
+              "title": "Nginx_Basic"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "56e771bb73770767",
+    "id": "ed60ea1d2c2ce3ca",
     "type": "split",
     "children": [
       {
-        "id": "b19577140f06215c",
+        "id": "3f2b4182a50af5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "df29065daad68e76",
+            "id": "e4b8f384f08638b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "fa1e0d85c1c98850",
+            "id": "547449d7a5eb71c9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3fd1e66fea5b5219",
+            "id": "0a208c1245e0d5d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "6cc8c8f330c68380",
+    "id": "a3078c8b9c570ffe",
     "type": "split",
     "children": [
       {
-        "id": "9f318829bceb4e07",
+        "id": "694fe28ee83e2796",
         "type": "tabs",
         "children": [
           {
-            "id": "908cade27b7f8a21",
+            "id": "29b8712243e7d6c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nginx_Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Nginx_Basic 的反向链接列表"
             }
           },
           {
-            "id": "de5f4463b1759f17",
+            "id": "e7219d6f9f64aae1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试2/小明.md",
+                "file": "Nginx_Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "小明 的出链列表"
+              "title": "Nginx_Basic 的出链列表"
             }
           },
           {
-            "id": "77a1ece4bd465cde",
+            "id": "d0bea9acf7b1aef5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "9a40aef8de9a92c5",
+            "id": "6c8642ca79c0d79e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,37 +151,26 @@
             }
           },
           {
-            "id": "ede417951cf8462a",
+            "id": "a7fe253b02600ffa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java_Basic.md",
+                "file": "Nginx_Basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java_Basic 的大纲"
-            }
-          },
-          {
-            "id": "80fdf8cc1f23a76a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Nginx_Basic 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,37 +180,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "2b2fac97eebe93c6",
+  "active": "4cf16928104bbe53",
   "lastOpenFiles": [
-    "Linux/Linux_Basic.md",
-    "Pasted image 20260416221331.png",
-    "Pasted image 20260416221057.png",
-    "Pasted image 20260416221019.png",
-    "Pasted image 20260416213506.png",
-    "Pasted image 20260416210131.png",
-    "Pasted image 20260416204015.png",
-    "Pasted image 20260416203130.png",
-    "Java/Java_Basic.md",
+    "Nginx_Basic/Nginx_Install/Configuration.md",
+    "Nginx_Basic.md",
     "未命名.md",
-    "Java",
-    "Ci_obsidian/Nginx_Basic/Nginx_Install/Experienxe.md",
-    "Ci_obsidian/Nginx_Basic/Nginx_Install/Configuration.md",
-    "Ci_obsidian/Nginx_Basic/Nginx_Install/Drawing 2026-04-16 15.19.38.excalidraw.md",
-    "Linux.md",
-    "Linux",
-    "未命名/未命名.md",
-    "测试.md",
-    "123.md",
-    "Drawing 2026-04-16 11.53.53.excalidraw.md",
-    "测试2/小明.md",
-    "测试2",
-    "新建 文本文档.txt",
-    ",gitignore",
-    "新建文件夹"
+    "Nginx.md",
+    "Nginx_Basic/Nginx_Install/Experienxe.md",
+    "Nginx_Basic/Nginx_Install/Drawing 2026-04-16 15.19.38.excalidraw.md",
+    "Nginx_Basic/Nginx_Install/未命名",
+    "Nginx_Basic/Nginx_Install/Configuration 1.md",
+    "未命名",
+    "Install.md",
+    "Nginx_Basic/Nginx_Install",
+    "Nginx basic.md",
+    "Nginx_Basic",
+    "Linux_basic"
   ]
 }
